@@ -592,7 +592,7 @@ ul{
     position: absolute;
     background-color: #ffffff;
     padding: 10px;
-    top: -370%;
+    top: -375%;
     transform: translateX(-20%);
     height: 90px;
 }
