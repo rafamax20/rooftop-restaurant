@@ -128,7 +128,7 @@ header img{
     height: 214px;
 }
 #section1{
-    display: flex;
+    display: none;
      justify-content: center;
      align-items: center;
      padding-top: 90px;
